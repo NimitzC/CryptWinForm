@@ -1,0 +1,13 @@
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\bin\Debug\CryptWinForm.exe.config
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\bin\Debug\CryptWinForm.exe
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\bin\Debug\CryptWinForm.pdb
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.csprojAssemblyReference.cache
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.Form1.resources
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.Properties.Resources.resources
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.csproj.GenerateResource.cache
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.exe
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.pdb
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.AESCryptForm.resources
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.RSACryptForm.resources
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.RSASignForm.resources
+C:\Users\zzy\source\repos\CryptWinForm\CryptWinForm\obj\Debug\CryptWinForm.RSACryptFormNew.resources
